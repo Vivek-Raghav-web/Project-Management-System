@@ -129,58 +129,55 @@ Uploads are handled using **Multer Middleware**.
 
 ## 🔑 Login Page
 
-![Login]
-(![D:\mongodb\college-project\college-menagement-system\screenshot\Screenshot 2026-05-19 235808.png](<../screenshot/Screenshot 2026-05-19 235808.png>))
+![Login Page](./screenshot/Screenshot%202026-05-19%20235808.png)
 
 ---
+## 📝 Signup Page
 
+![Signup Page](./screenshot/Screenshot%202026-05-19%20235829.png)
+
+---
 ## 📊 Student Dashboard
 
-![Student Dashboard]
-(![./screenshots/student-dashboard.png](<../screenshot/student/Screenshot 2026-05-19 235255.png>))
+![Student Dashboard 1](./screenshot/student/Screenshot%202026-05-19%20235255.png)
 
-(!![alt text](<../screenshot/student/Screenshot 2026-05-19 235339.png>))
+![Student Dashboard 2](./screenshot/student/Screenshot%202026-05-19%20235339.png)
 
-(!![alt text](<../screenshot/student/Screenshot 2026-05-19 235430.png>))
+![Student Dashboard 3](./screenshot/student/Screenshot%202026-05-19%20235430.png)
 
-(!![alt text](<../screenshot/student/Screenshot 2026-05-19 235457.png>))
+![Student Dashboard 4](./screenshot/student/Screenshot%202026-05-19%20235457.png)
 
-(!![screenshot/student/Screenshot 2026-05-19 235514.png](<../screenshot/student/Screenshot 2026-05-19 235514.png>))
+![Student Dashboard 5](./screenshot/student/Screenshot%202026-05-19%20235514.png)
 
 ---
 
 ## 👨‍🏫 Teacher Dashboard
 
-![Teacher Dashboard]
-(![./screenshots/teacher-dashboard.png](<../screenshot/teacher/Screenshot 2026-05-19 234924.png>))
+![Teacher Dashboard 1](./screenshot/teacher/Screenshot%202026-05-19%20234924.png)
 
-(!![alt text](<../screenshot/teacher/Screenshot 2026-05-19 234951.png>))
+![Teacher Dashboard 2](./screenshot/teacher/Screenshot%202026-05-19%20234951.png)
 
-(!![alt text](<../screenshot/teacher/Screenshot 2026-05-19 235015.png>))
+![Teacher Dashboard 3](./screenshot/teacher/Screenshot%202026-05-19%20235015.png)
 
-(!![alt text](<../screenshot/teacher/Screenshot 2026-05-19 235052.png>))
+![Teacher Dashboard 4](./screenshot/teacher/Screenshot%202026-05-19%20235052.png)
 
-(!![alt text](<../screenshot/teacher/Screenshot 2026-05-19 235113.png>))
+![Teacher Dashboard 5](./screenshot/teacher/Screenshot%202026-05-19%20235113.png)
 
 ---
 
-
 ## 👨‍💼 Admin Dashboard
 
-![Admin Dashboard]
-(!![./screenshots/admin-dashboard.png](<../screenshot/admin/Screenshot 2026-05-19 234251.png>))
+![Admin Dashboard 1](./screenshot/admin/Screenshot%202026-05-19%20234251.png)
 
-(!![alt text](<../screenshot/admin/Screenshot 2026-05-19 234320.png>))
+![Admin Dashboard 2](./screenshot/admin/Screenshot%202026-05-19%20234320.png)
 
-(!![alt text](<../screenshot/admin/Screenshot 2026-05-19 234405.png>))
+![Admin Dashboard 3](./screenshot/admin/Screenshot%202026-05-19%20234405.png)
 
-(!![alt text](<../screenshot/admin/Screenshot 2026-05-19 234434.png>))
+![Admin Dashboard 4](./screenshot/admin/Screenshot%202026-05-19%20234434.png)
 
-(!![alt text](<../screenshot/admin/Screenshot 2026-05-19 234454.png>))
+![Admin Dashboard 5](./screenshot/admin/Screenshot%202026-05-19%20234454.png)
 
-(!![alt text](<../screenshot/admin/Screenshot 2026-05-19 234524.png>))
-
-
+![Admin Dashboard 6](./screenshot/admin/Screenshot%202026-05-19%20234524.png)
 ---
 
 # 🔄 Project Workflow
