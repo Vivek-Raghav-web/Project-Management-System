@@ -129,58 +129,57 @@ Uploads are handled using **Multer Middleware**.
 
 ## 🔑 Login Page
 
-<img src="./screenshot/Screenshot 2026-05-19 235808.png" width="100%"/>
+![Login](./screenshot/login-page.png)
 
 ---
 
 ## 📝 Signup Page
 
-<img src="./screenshot/Screenshot 2026-05-19 235829.png" width="100%"/>
+![Signup](./screenshot/signup-page.png)
 
 ---
 
 ## 📊 Student Dashboard
 
-<img src="./screenshot/student/Screenshot 2026-05-19 235255.png" width="100%"/>
+![Student 1](./screenshot/student/student-1.png)
 
-<img src="./screenshot/student/Screenshot 2026-05-19 235339.png" width="100%"/>
+![Student 2](./screenshot/student/student-2.png)
 
-<img src="./screenshot/student/Screenshot 2026-05-19 235430.png" width="100%"/>
+![Student 3](./screenshot/student/student-3.png)
 
-<img src="./screenshot/student/Screenshot 2026-05-19 235457.png" width="100%"/>
+![Student 4](./screenshot/student/student-4.png)
 
-<img src="./screenshot/student/Screenshot 2026-05-19 235514.png" width="100%"/>
+![Student 5](./screenshot/student/student-5.png)
 
 ---
 
 ## 👨‍🏫 Teacher Dashboard
 
-<img src="./screenshot/teacher/Screenshot 2026-05-19 234924.png" width="100%"/>
+![Teacher 1](./screenshot/teacher/teacher-1.png)
 
-<img src="./screenshot/teacher/Screenshot 2026-05-19 234951.png" width="100%"/>
+![Teacher 2](./screenshot/teacher/teacher-2.png)
 
-<img src="./screenshot/teacher/Screenshot 2026-05-19 235015.png" width="100%"/>
+![Teacher 3](./screenshot/teacher/teacher-3.png)
 
-<img src="./screenshot/teacher/Screenshot 2026-05-19 235052.png" width="100%"/>
+![Teacher 4](./screenshot/teacher/teacher-4.png)
 
-<img src="./screenshot/teacher/Screenshot 2026-05-19 235113.png" width="100%"/>
+![Teacher 5](./screenshot/teacher/teacher-5.png)
 
 ---
 
 ## 👨‍💼 Admin Dashboard
 
-<img src="./screenshot/admin/Screenshot 2026-05-19 234251.png" width="100%"/>
+![Admin 1](./screenshot/admin/admin-1.png)
 
-<img src="./screenshot/admin/Screenshot 2026-05-19 234320.png" width="100%"/>
+![Admin 2](./screenshot/admin/admin-2.png)
 
-<img src="./screenshot/admin/Screenshot 2026-05-19 234405.png" width="100%"/>
+![Admin 3](./screenshot/admin/admin-3.png)
 
-<img src="./screenshot/admin/Screenshot 2026-05-19 234434.png" width="100%"/>
+![Admin 4](./screenshot/admin/admin-4.png)
 
-<img src="./screenshot/admin/Screenshot 2026-05-19 234454.png" width="100%"/>
+![Admin 5](./screenshot/admin/admin-5.png)
 
-<img src="./screenshot/admin/Screenshot 2026-05-19 234524.png" width="100%"/>
-
+![Admin 6](./screenshot/admin/admin-6.png)
 
 # 🔄 Project Workflow
 
